@@ -49,7 +49,8 @@ function it_develops_scripts() {
 	wp_enqueue_script( 'myscript', get_template_directory_uri() . '/js/myscript.js');
 }
 
-add_filter( 'frontpage_template',  'my_front_page_template' );
+/*add_filter( 'frontpage_template',  'my_front_page_template' );
 function my_front_page_template( $template ) {
 	return is_home() ? '' : $template;
 }
+*/
