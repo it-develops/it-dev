@@ -22,7 +22,7 @@
 						<div class="caption_img2 FromTop"><img src="<?php echo get_template_directory_uri(); ?>/images/slider/caption_img2.png" alt="" /></div>
 						<div class="flex_caption1 FromBottom">
 							<p><b>Ваши идеи</b> - наши решения!</p>
-							<a class="btn btn-active btn-lg" href="javascript:void(0);" >Отправить заявку!</a>
+							<a class="btn btn-active btn-lg" href="<?php echo get_site_url(); ?>/contact" >Отправить заявку!</a>
 						</div>
 					</div>
 				</div>

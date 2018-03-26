@@ -30,7 +30,7 @@
 					<div class="price_item_text">Форма обратной связи</div>
 					<div class="price_item_text">Счетчик посещаемости</div>
 					<div class="price_item_text">CMS Wordpress</div>
-					<div class="price_item_btn"><a href="javascript:void(0);">Отправить заявку!</a></div>
+					<div class="price_item_btn"><a href="<?php echo get_site_url(); ?>/contact">Отправить заявку!</a></div>
 				</div>
 			</div>			
 			<div class="price_item" data-appear-top-offset="-100" data-animated="fadeInLeft">
@@ -47,7 +47,7 @@
 					<div class="price_item_text">CMS Wordpress</div>
 					<div class="price_item_text">Модуль Новости</div>
 					<div class="price_item_text">Модуль Слайд-шоу</div>
-					<div class="price_item_btn"><a href="javascript:void(0);">Отправить заявку!</a></div>
+					<div class="price_item_btn"><a href="<?php echo get_site_url(); ?>/contact">Отправить заявку!</a></div>
 				</div>
 			</div>
 			<div class="price_item most_popular" data-appear-top-offset="-100" data-animated="fadeInRight">
@@ -66,7 +66,7 @@
 					<div class="price_item_text">Модуль Слайд-шоу</div>
 					<div class="price_item_text">Модуль Каталог</div>
 					<div class="price_item_text">Модуль SEO</div>
-					<div class="price_item_btn"><a href="javascript:void(0);">Отправить заявку!</a></div>
+					<div class="price_item_btn"><a href="<?php echo get_site_url(); ?>/contact">Отправить заявку!</a></div>
 				</div>
 			</div>
 			<div class="price_item" data-appear-top-offset="-100" data-animated="fadeInRight">
@@ -85,7 +85,7 @@
 					<div class="price_item_text">Модуль Слайд-шоу</div>
 					<div class="price_item_text">Модуль Каталог</div>
 					<div class="price_item_text">Модуль SEO</div>
-					<div class="price_item_btn"><a href="javascript:void(0);">Отправить заявку!</a></div>
+					<div class="price_item_btn"><a href="<?php echo get_site_url(); ?>/contact">Отправить заявку!</a></div>
 				</div>
 			</div>			
 			<div class="clear"></div>
